@@ -1,0 +1,17 @@
+# Python / Environment
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+.vscode/
+*.log
+
+# Data
+data/
+logs/
+models/
+*.csv
+*.pkl
+
+# Mac system
+.DS_Store
